@@ -35,3 +35,4 @@ Use the resulting torrent that starts with PTP for uploading to the tracker.
 #### Questions, help
 
 Support is provided on [PTP](https://passthepopcorn.me/forums.php?action=viewthread&threadid=9245).
+不能用root账户登录，哪个账户使用，哪个账户安装和开启
